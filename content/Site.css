@@ -1,0 +1,100 @@
+﻿/*Site Styles*/
+#imgLogo {
+    background-color: #0000FF;
+}
+#imgSiteLogo {
+    width: 160px;
+    height: 90px;
+    background-color: #0000FF;
+}
+#searchTextBox {
+    width: 200px;
+    height: 20px;
+    overflow: hidden;
+    padding-right: 0px;
+    vertical-align: top;
+}
+#spnSiteSearch {
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+#imgSearchButton {
+    width: 25px;
+    height: 25px;
+}
+#ulMenu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: 1px solid gray;
+    height: 45px;
+    background-color: #0000FF;
+}
+    #ulMenu li {
+        float: left;
+        display: block;
+        position: relative;
+        width: 100px;
+        height: 20px;
+        border-right: 1px solid #B2B0B0;
+        text-align: center;
+        font-size: larger;
+        font-weight: bold;
+        color: white;
+    }
+#divRecentViewedBanner {
+    font-size: larger;
+    padding: 20px;
+    border: 1px solid #AEADAD;
+    text-align: center;
+}
+#divRecentViewedItems {
+    margin-top: 10px;
+    font-size: small;
+}
+.money {
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+}
+#tblRecentViewedItems td {
+    border-right: 1px solid #AEADAD;
+    padding: 0px 10px 0px 15px;
+}
+
+
+/*Home Page Styles*/
+#divBannerImg {
+    background-color: #0000FF;
+    text-align: center;
+}
+.divCenter {
+    padding-top: 10px;
+    text-align: center;
+    font-size: larger;
+}
+.famousItems {
+    border: 1px solid #AEADAD;
+    margin: 20px;
+}
+
+
+/*Product Page Styles*/
+#tbContainer{
+    width:100%;
+}
+#GVProducts {
+    width: 100%;
+    border-bottom: 1px;
+}
+#tbContainer tr td {
+    vertical-align: top;
+}
+
+/*ItemSite Style*/
+#divItem{
+    width: 100%
+}
+#imgItemImage {
+}
