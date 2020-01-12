@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BestTry.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>BestTry</title>
+    <link href="Content/Site.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="imgLogo">
+            <span><a href="Home.aspx"><img src="Graphics/bby_logo.png" id="imgSiteLogo"/></a></span>
+            <span id="spnSiteSearch">
+                <asp:TextBox ID="searchTextBox" runat="server"></asp:TextBox>
+                <asp:ImageButton ID="imgSearchButton" runat="server" src="Graphics/search.png"/>
+            </span>
+        </div>
+        <div id="ulMenu">
+            <ul><li><a href="Products.aspx">Product</a></li>
+                <li>Brand</li>
+                <li>deals</li>
+                <li>Services</li>                                 
+            </ul>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="divRecentViewedBanner">
+            Recent Viewed Items
+            <div id="divRecentViewedItems">
+                <table id="tblRecentViewedItems">
+                    <tr>
+                        <td><img src="Graphics/5723304_sa.jpg" /><br /> Mario Kart 8 <br /><br /> <span class="money">$59.99</span></td>
+                        <td><img src="Graphics/5723319_sa.jpg" /><br /> Mario Smash Bros <br /><br /> <span class="money">$59.99</span></td>
+                        <td><img src="Graphics/5909500_sa.jpg" /><br /> Mario Battle <br /><br /> <span class="money">$49.99</span></td>
+                        <td><img src="Graphics/6255373_sa.jpg" /><br /> Mario Party <br /><br /> <span class="money">$59.99</span></td>
+                        <td><img src="Graphics/6352149_sa.jpg" /><br /> Ring Fit <br /><br /> <span class="money">$79.99</span></td>
+                        <td><img src="Graphics/6352986_sa.jpg" /><br /> Just Dance 2020 <br /><br /> <span class="money">$24.99</span></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div>
+            <ul id="">
+                <li>Contact</li>
+                <li>About</li>
+                <li>CopyRight</li>
+            </ul>
+        </div>
+    </form>
+</body>
+</html>
