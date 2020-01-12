@@ -1,0 +1,110 @@
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.dll.config
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.pdb
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.exe
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.exe.config
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.rsp
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.exe
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.exe.config
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.rsp
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.AppContext.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Console.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.exe
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.exe.config
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.rsp
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.csprojAssemblyReference.cache
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.csproj.CopyComplete
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.dll
+C:\Users\Jerry\DT Dropbox\megacell\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.pdb
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.dll.config
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\BestTry.pdb
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.exe
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.exe.config
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csc.rsp
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.exe
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.exe.config
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\csi.rsp
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.AppContext.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Console.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.exe
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.exe.config
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\vbc.rsp
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.csproj.CopyComplete
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.dll
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.pdb
+C:\Users\Jerry\Dropbox\Jerry\VS Projects\OnlineBestTry\BestTry\obj\Debug\BestTry.csprojAssemblyReference.cache
